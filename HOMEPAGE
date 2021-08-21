@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>MM</title><link rel="stylesheet"
+type="text/css" href="css/stylesheets-main.css"><link
+href="https://fonts.googleapis.com/css?family=Lato:100,300,400"
+rel="stylesheet"></head><body>
+<header class="primary-header container group"><h1 class="logo">
+<a href="index.html">MM <br> Hospitality</a>
+</h1>
+<h3 class="tagline">#1 for a reason ;)</h3>
+<nav class="nav primary-nav"><ul><li><a href="index.html">Home</a></li><!--
+ --><li><a href="service.html">Our Services</a></li><!--
+ --><li><a href="review.html">Our Reviews</a></li><!--
+ --><li><a href="login.html">login</a></li>
+</ul></nav></header><section class="hero container"><h2>Dedicated to providing
+the best when it comes to service and we don't say our review speak for
+themselves.</p>
+<a class="btnbtn-alt" href="login.html">Book Now !!</a>
+</section><section class="row"><div class="grid">
+<section class="teaser col-1-3"><h5>Services</h5>
+<a href="service.html">
+<imgsrc="images/services.jpg" alt="Professional Speaker"><h3>Top NotchService</h3>
+</a>
+<p>Here are our top services provided by us.</p>
+</section><section class="teaser col-1-3"><h5>Reviews</h5>
+<a href="review.html">
+<imgsrc="images/review.jpg" alt="Schedule"><h3> Words from the esteemed</h3>
+</a>
+<p>Feedbacks and Responses from our esteemed customers.</p>
+</section><section class="teaser col-1-3"><h5>Book Your Room now!</h5>
+<a href="login.html">
+<imgsrc="images/login.png" alt="Login"><h3>Pay on check-in</h3>
+</a>
+<p>Login and Book your hotel.</p>
+</section></div>
+</section><footer class="primary-footer container group"><small>&copy; MM
+Hospitality</small>
+<nav class="nav"><ul><li><a href="index.html">Back to Top</a></li>
+</ul>
+</nav>
+</footer>
+</body>
+</html>
